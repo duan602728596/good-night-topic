@@ -13,5 +13,5 @@
 | selfId      | number | 机器人QQ号 |
 | port        | number | httpapi的socket端口号 |
 | groupNumber | number | 群号      |
-| userId      | Array<number> | 触发命令的qq号 |
+| userId      | Array&lt;number&gt; | 触发命令的qq号 |
 | cron        | string | 定时器配置 |
