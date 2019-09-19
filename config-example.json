@@ -1,0 +1,7 @@
+{
+  "selfId": 0,
+  "port": 0,
+  "groupNumber": 0,
+  "userId": [0],
+  "cron": "0 0 20,21 * * *"
+}

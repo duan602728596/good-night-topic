@@ -1,0 +1,1 @@
+packages/**/*.{js,jsx}: eslint
